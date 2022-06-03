@@ -5,6 +5,6 @@
 ``` c++
 #include<stdio.h>
 int main{
-  printf("I'm CZYi);
-  return 0;
+    printf("I'm CZYi);
+    return 0;
 }
