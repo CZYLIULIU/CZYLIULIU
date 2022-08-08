@@ -1,10 +1,9 @@
-# Hello I'm CZYi!
+# Hello I'm CruelBooch|CZYi!
 ### If you want to tell me something
 ### Please E-mail me at CZYLIULIU@outlook.com
-
 ``` c++
 #include<stdio.h>
 int main{
-    printf("I'm CZYi);
+    printf("I'm CZYi|CruelBooch);
     return 0;
 }
