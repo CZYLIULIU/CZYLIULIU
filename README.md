@@ -4,6 +4,6 @@
 ``` c++
 #include<stdio.h>
 int main{
-    printf("I'm CZYi|CruelBooch);
+    printf("I'm CruelBooch);
     return 0;
 }
